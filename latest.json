@@ -1,12 +1,13 @@
 {
-    "version":  "0.2.0",
-    "versionCode":  3,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.2.0",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.2.0/SmartCalendar-0.2.0.apk",
-    "size":  26707144,
+    "version":  "0.3.0",
+    "versionCode":  4,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.3.0",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.3.0/SmartCalendar-0.3.0.apk",
+    "size":  26726140,
     "notes":  [
-                  "Три языка: русский, қазақша, English",
-                  "Стартовая страница: язык, режим, согласие с политикой",
-                  "В настройках: язык, политика, соглашение, переключатель напоминаний про виджет"
+                  "Расписание целей: каждый день, по дням недели, N раз в неделю",
+                  "Числовые цели с нормой (например, 8 стаканов) и заметка к дню",
+                  "Пауза и архив целей",
+                  "Название под иконкой по языку телефона"
               ]
 }
