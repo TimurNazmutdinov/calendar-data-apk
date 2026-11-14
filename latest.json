@@ -1,11 +1,13 @@
 {
-    "version":  "0.8.0",
-    "versionCode":  8,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.8.0",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.8.0/SmartCalendar-0.8.0.apk",
-    "size":  27690948,
+    "version":  "0.8.1",
+    "versionCode":  9,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.8.1",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.8.1/SmartCalendar-0.8.1.apk",
+    "size":  27692932,
     "notes":  [
-                  "Виджет «Отметить сегодня»: отмечайте цели прямо с рабочего стола",
-                  "Подсказки про виджет в 1-й, 3-й и 7-й день (можно отключить)"
+                  "Виджет стал нагляднее: число дня, прогресс, строки без пустого места",
+                  "На экране напоминаний — инструкция и кнопка «Добавить виджет»",
+                  "Значок календаря в шапке показывает сегодняшнее число",
+                  "Ярлык на главном экране с белым фоном"
               ]
 }
