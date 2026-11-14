@@ -1,13 +1,15 @@
 {
-    "version":  "0.3.0",
-    "versionCode":  4,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.3.0",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.3.0/SmartCalendar-0.3.0.apk",
-    "size":  26726140,
+    "version":  "0.5.0",
+    "versionCode":  7,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.5.0",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.5.0/SmartCalendar-0.5.0.apk",
+    "size":  31173228,
     "notes":  [
-                  "Расписание целей: каждый день, по дням недели, N раз в неделю",
-                  "Числовые цели с нормой (например, 8 стаканов) и заметка к дню",
-                  "Пауза и архив целей",
-                  "Название под иконкой по языку телефона"
+                  "Напоминания по целям и экран «Состояние напоминаний»",
+                  "Статистика цели: серии с заморозкой, процент, карта года",
+                  "Праздники Казахстана и России в календаре",
+                  "Вкладки списка: Сегодня / Все / Пауза, вид «План по дням»",
+                  "Резервная копия и восстановление, экспорт CSV, итоги месяца",
+                  "Тема Светлая / Тёмная и акцентные цвета"
               ]
 }
