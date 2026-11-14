@@ -1,15 +1,11 @@
 {
-    "version":  "0.5.0",
-    "versionCode":  7,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.5.0",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.5.0/SmartCalendar-0.5.0.apk",
-    "size":  31173228,
+    "version":  "0.8.0",
+    "versionCode":  8,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.8.0",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.8.0/SmartCalendar-0.8.0.apk",
+    "size":  27690948,
     "notes":  [
-                  "Напоминания по целям и экран «Состояние напоминаний»",
-                  "Статистика цели: серии с заморозкой, процент, карта года",
-                  "Праздники Казахстана и России в календаре",
-                  "Вкладки списка: Сегодня / Все / Пауза, вид «План по дням»",
-                  "Резервная копия и восстановление, экспорт CSV, итоги месяца",
-                  "Тема Светлая / Тёмная и акцентные цвета"
+                  "Виджет «Отметить сегодня»: отмечайте цели прямо с рабочего стола",
+                  "Подсказки про виджет в 1-й, 3-й и 7-й день (можно отключить)"
               ]
 }
