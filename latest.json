@@ -1,13 +1,15 @@
 {
-    "version":  "0.8.1",
-    "versionCode":  9,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.8.1",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.8.1/SmartCalendar-0.8.1.apk",
-    "size":  27692932,
+    "version":  "0.9.0",
+    "versionCode":  10,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.9.0",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.9.0/SmartCalendar-0.9.0.apk",
+    "size":  27729492,
     "notes":  [
-                  "Виджет стал нагляднее: число дня, прогресс, строки без пустого места",
-                  "На экране напоминаний — инструкция и кнопка «Добавить виджет»",
-                  "Значок календаря в шапке показывает сегодняшнее число",
-                  "Ярлык на главном экране с белым фоном"
+                  "Новые цветовые схемы: 7 светлых и 7 тёмных, по умолчанию светлый Янтарь",
+                  "Нижняя панель: Цели, Календарь, Статистика",
+                  "Общий календарь по всем целям: месяц, неделя и список",
+                  "На главном экране видно, сколько целей отмечено сегодня; счётчик у числовых целей",
+                  "На экране цели — крупная серия и вид «Год»",
+                  "Первый запуск: приветствие и выбор готовых целей"
               ]
 }
