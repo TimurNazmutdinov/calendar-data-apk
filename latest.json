@@ -1,15 +1,14 @@
 {
-    "version":  "0.10.0",
-    "versionCode":  11,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.0",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.0/SmartCalendar-0.10.0.apk",
-    "size":  27760016,
+    "version":  "0.10.1",
+    "versionCode":  12,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.1",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.1/SmartCalendar-0.10.1.apk",
+    "size":  27941452,
     "notes":  [
-                  "Настройки теперь во вкладке нижней панели, группами",
-                  "Тонкая календарная сетка на фоне приложения и виджета (отключается в настройках)",
-                  "Напоминания: до трёх времён на цель, время выбирается списками часов и минут",
-                  "Итоги месяца можно сохранить в PDF",
-                  "Подсказки про заметку к дню",
-                  "Убраны государственные праздники и выделение выходных"
+                  "Статистика цели: сетка по месяцам, полосы по месяцам, сохранение в PDF",
+                  "Вкладка «Пауза»: кнопка «Поставить цель на паузу»",
+                  "Настройки стали проще: убраны режимы, сетка на фоне и раздел «Виджет»",
+                  "Выбор цветовой схемы: видно, какая выбрана",
+                  "Новая иконка"
               ]
 }
