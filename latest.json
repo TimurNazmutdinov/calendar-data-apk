@@ -1,11 +1,12 @@
 {
-    "version":  "0.10.4",
-    "versionCode":  15,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.4",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.4/SmartCalendar-0.10.4.apk",
-    "size":  27931056,
+    "version":  "0.10.5",
+    "versionCode":  16,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.5",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.5/SmartCalendar-0.10.5.apk",
+    "size":  27932004,
     "notes":  [
-                  "Виджеты компактнее: «Одна цель» 1×1, «Две цели» 2×1, «Сегодня» с меньшими отступами",
-                  "Напоминания всплывают баннером поверх экрана"
+                  "Исправлены виджеты: больше не пустая рамка",
+                  "Значки целей: вкладки групп с названиями",
+                  "Больше цветов цели, белый и «без цвета»"
               ]
 }
