@@ -1,15 +1,11 @@
 {
-    "version":  "0.10.3",
-    "versionCode":  14,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.3",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.3/SmartCalendar-0.10.3.apk",
-    "size":  27930368,
+    "version":  "0.10.4",
+    "versionCode":  15,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.4",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.4/SmartCalendar-0.10.4.apk",
+    "size":  27931056,
     "notes":  [
-                  "Новая иконка приложения",
-                  "В списке целей: счётчик 0/3 вместо плюса и меню «⋮» (пауза, в архив, удалить)",
-                  "Экран цели: название в две строки, огонёк серии — после месяца подряд",
-                  "Виджеты «Одна цель» и «Две цели», понятная дата на виджете",
-                  "Больше значков для целей, форму не закрывает клавиатура",
-                  "Убран режим «Как в системе»: по умолчанию Янтарь"
+                  "Виджеты компактнее: «Одна цель» 1×1, «Две цели» 2×1, «Сегодня» с меньшими отступами",
+                  "Напоминания всплывают баннером поверх экрана"
               ]
 }
