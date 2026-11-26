@@ -1,10 +1,10 @@
 {
-    "version":  "0.10.7",
-    "versionCode":  18,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.7",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.7/SmartCalendar-0.10.7.apk",
-    "size":  27842348,
+    "version":  "0.10.8",
+    "versionCode":  19,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.8",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.8/SmartCalendar-0.10.8.apk",
+    "size":  27840412,
     "notes":  [
-                  "Новая иконка приложения — янтарная медаль со звездой."
+                  "Иконка приложения обновлена: оранжевая медаль на белом фоне, крупнее."
               ]
 }
