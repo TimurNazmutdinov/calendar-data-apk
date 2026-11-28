@@ -1,11 +1,10 @@
 {
-    "version":  "0.10.9",
-    "versionCode":  20,
-    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.9",
-    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.9/SmartCalendar-0.10.9.apk",
-    "size":  32838368,
+    "version":  "0.10.10",
+    "versionCode":  21,
+    "url":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/tag/v0.10.10",
+    "apkUrl":  "https://github.com/TimurNazmutdinov/calendar-data-apk/releases/download/v0.10.10/SmartCalendar-0.10.10.apk",
+    "size":  32839288,
     "notes":  [
-                  "Вкладки «Вчера» и «Завтра» в списке целей, свайп между вкладками.",
-                  "Настройки: все пункты свёрнуты при открытии."
+                  "Иконка: медаль чуть ниже относительно рамки."
               ]
 }
